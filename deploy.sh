@@ -6,4 +6,4 @@ else
 fi
 
 chmod -R ug+rwX public/
-rsync -avuz public/ ad-blog.informatik.uni-freiburg.de:/var/www/ad-blog/
+rsync -avuz --chown=ad-blog:ad-blog public/ root@topi.informatik.privat:/var/www/ad-blog/

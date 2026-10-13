@@ -1,0 +1,4 @@
+/* Entfernt die kursiv-Darstellung von Blockquotes in Figcaption */
+figure figcaption p {
+  font-style: normal !important;
+}
