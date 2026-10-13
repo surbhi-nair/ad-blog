@@ -5,7 +5,7 @@ author: "Surbhi Nair"
 authorAvatar: "img/author_sn.jpg"
 tags: ["SPARQL", "GRASP"]
 categories: []
-image: "img/writing.jpg"
+image: "img/thumbnail.png"
 ---
 We're exploring whether the way data is modeled - Relational or RDF - impacts question answering quality in the semantic parsing setting.
 <!--more-->
